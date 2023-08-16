@@ -1,7 +1,7 @@
 ## Oi oi, eu sou a Paola, Desenvolvedora Front End! :)
 
--👩‍💻📱 Atualmente estou aprimorando meus conhecimentos em todo o ecossistema React. No entanto, tenho me especializado principalmente em desenvolvimento mobile, utilizando React Native
-- 📓 Linguas: Português and Inglês
+👩‍💻📱 Atualmente estou aprimorando meus conhecimentos em todo o ecossistema React. No entanto, tenho me especializado principalmente em desenvolvimento mobile, utilizando React Native
+
 
 <div align="center">
   <a href="https://github.com/paolasgomes">
